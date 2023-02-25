@@ -1,5 +1,4 @@
 from machine import Pin, PWM
-from random import randint
 from hcsr04 import HCSR04
 import time
 
